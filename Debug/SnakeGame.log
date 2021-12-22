@@ -1,0 +1,47 @@
+﻿  Food.cpp
+  Scene.cpp
+D:\KHPI\ОП\Курсач\SnakeGame\Block.h(17,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Block.h(19,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Block.h(20,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(20,90): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(21,97): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(22,98): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(23,91): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(24,91): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(26,81): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(26,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(26,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(64,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(68,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(69,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(81,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(82,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(150,33): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(150,26): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(167,40): warning C4305: аргумент: усечение из "double" в "GLclampf"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(186,68): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(189,68): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(192,72): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(194,73): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(197,72): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(199,73): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(202,68): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(203,69): warning C4305: аргумент: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(234,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(239,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(108,97): warning C4101: menu7: неиспользованная локальная переменная
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(108,61): warning C4101: menu4: неиспользованная локальная переменная
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(270,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(273,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(279,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(280,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(307,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(308,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(370,25): warning C4305: -=: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(377,25): warning C4305: +=: усечение из "double" в "float"
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(382,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KHPI\ОП\Курсач\SnakeGame\Scene.cpp(383,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  SnakeGame.vcxproj -> D:\KHPI\ОП\Курсач\SnakeGame\Debug\SnakeGame.exe

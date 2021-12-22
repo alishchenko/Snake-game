@@ -1,0 +1,2 @@
+D:\KHPI\ОП\Курсач\SnakeGame\Debug\SnakeGame.exe
+D:\KHPI\ОП\Курсач\SnakeGame\Debug\SnakeGame.pdb
